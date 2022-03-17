@@ -1,6 +1,6 @@
 ### Olaaá! Eu sou o Jhonatan 😉
 
-Estou estudando sobre o mundo de desenvolvimento e você pode conferir um pouco mais de mim acessando meu Linkedin 👇
+Estou estudando sobre o mundo de desenvolvimento web e você pode conferir um pouco mais de mim acessando meu Linkedin 👇
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/jhonatan-marques/)<br/>
